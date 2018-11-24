@@ -1,1 +1,1 @@
-# PriceSniper (version 69)
+# PriceSniper (version 69).
